@@ -1,14 +1,17 @@
 * Laptop
 ** evince - Presentation pdf in presentation mode
-** browser tabs
-(Will open as required)
+- F11 full screen
+** video 
+mplayer videos/ -fs
+
+** browser tabs(Will open as required)
 ** terminal
 - ./esphome directory
 - fullsreen
 - larger font
 - prompt: PS1='\e[0;36mEO2024> \e[m'
+- F11 Full Screen
 
 * ESPHome dashboard
-http://0.0.0.0:6052
-
-https://www.home-assistant.io/voice_control/thirteen-usd-voice-remote/
+- http://0.0.0.0:6052
+- https://www.home-assistant.io/voice_control/thirteen-usd-voice-remote/

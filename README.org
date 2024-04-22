@@ -2,3 +2,6 @@
 
 * everything-open-2024
 Presentation and files for the Everything Open 2024 Conference
+
+[[https://2024.everythingopen.au/schedule/presentation/42/]["Free your mind and your devices will follow, using ESPhome - An introduction to ESPHome"]]
+
